@@ -1,6 +1,6 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
-description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
+title: Austin Real Estate Video Blog with Kevin McCarthy
+description: Our mission at KMAC Team is to be your best resource for Austin real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The KMAC Team, your professional Austin Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -11,41 +11,43 @@ custom_links_new_tab:
     url:
 
 client:
-  name:
+  name: Kevin McCarthy
   title:
   license_number:
   about_markdown: |
+    As a native Austinite, Kevin brings local knowledge to a whole new level. Brought up in the small business world he has connections in all corners of Austin. Kevin grew up in the well known central Austin neighborhood of Hyde Park across the street from Hancock golf course.
 
-  brand:
+    Kevin started working at the family business in West Austin at 13 years old and started his first business venture at the age of 17. Since then Kevin has started and sold off a handful of small businesses. Fascinated by Real Estate, Kevin bought a house in NW Austin as soon as he was old enough for a bank to consider giving him a mortgage. He filled that house up with roommates and bought another one and so on so forth. Kevin became a Real Estate agent by accident because he could not find a Realtor who could help sell his investments in a pinch so he got a license and did it himself. Before too long people started reaching out to him for advice and a Real Estate career was born. Since then Kevin has become one of Austin's most respected top producers.
+  brand: KMAC Team
   brokerage:
-  market:
-  address:
-  phone:
+  market: Austin
+  address: 1320 Cypress Creek Road, Suite 102 Cedar Park, TX, 78613
+  phone: 512-587-4050
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: kevin@maxavenue.com
+  url: https://www.kmacteam.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://www.kmacteam.com/home-valuation
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://search.kmacteam.com/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
+    CTA_title: "What’s Your Austin Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: https://www.kmacteam.com/home-valuation
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+    CTA_title2: "Looking for a Austin Home?"
+    CTA_text2: "Search the entire MLS for your Austin home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://search.kmacteam.com/
 
 lender:
   show_section: false
@@ -61,38 +63,38 @@ lender:
   url:
 
 socials:
-  review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  youtube_url:
-  twitter_url:
+  review_sm_icons: true
+  facebook_url: https://www.facebook.com/adayinrealestate
+  linkedin_url: https://www.linkedin.com/in/kevin-mccarthy-74654611
+  youtube_url: https://www.youtube.com/channel/UCrefPoudDjmaxPBr0FIkawQ
+  twitter_url: https://twitter.com/kmac_austin
   instagram_url:
   pinterest_url:
-  zillow_url:
+  zillow_url: https://www.zillow.com/profile/kevinmccarthy5/
   trulia_url:
   yelp_url:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'Austin Real Estate Podcast with Kevin McCarthy'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Austin Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from KMAC Team - your professional Austin Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Austin, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Kevin McCarthy'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
-  hero_background_hex: '#999'
+  logo_width_number: 80
+  hero_text: Austin Real Estate Video Blog
+  hero_background_hex: '#fff'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#002B4A'
+  theme_color: '#464646'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
