@@ -20,6 +20,6 @@ youtube_code: AZkwOf-6eRw
 
 We’ve made the final touches to this cozy getaway, and the results are simply amazing. We finished up the enclosed deck, added an outdoor shower to the newly built porch, and much more.
 
-**Join us on a quick video tour of the location**, and if you’re interested in renting out the Sea Casa, visit our Airbnb website or VRBO website.
+**Join us on a quick video tour of the location**, and if you’re interested in renting out the Sea Casa, visit our [Airbnb website or VRBO website](https://www.kmacteam.com/){: target="_blank"}.
 
 &nbsp;
