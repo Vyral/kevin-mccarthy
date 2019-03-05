@@ -19,8 +19,6 @@ youtube_code: AOOUu5y6gNQ
 
 {% include youtube.html %}
 
-&nbsp;
-
 I’m not just here today to talk about **Austin Terrier**, a great local lunch spot—I’m also here to talk about homestead exemptions.
 
 If you’re on my mailing list, you’ve already received a coupon for Austin Terrier. We’ve been shining the spotlight on restaurants in our area each month, and by joining our list, you can get some good deals on some great meals. **The sandwiches here are excellent, and I’ve heard the pizza is tasty as well.** And the truffle fries? *On point!*
