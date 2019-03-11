@@ -29,6 +29,6 @@ While I wholeheartedly recommend Austin Terrier, I’m not here to simply talk a
 
 If you’ve bought a house in the past year, you need to file for a homestead exemption before the end of April. If you bought a house in the past and are unsure if your homestead exemption was filed by the county, be sure to check—it’s surprising to see how many people have never filed for it.
 
-We’ll always reach out to you if we see your exemption wasn’t accepted or filed, but it’s always good to be proactive. **If you want to learn how to do file for your homestead exemption, click here for instructions.**
+We’ll always reach out to you if we see your exemption wasn’t accepted or filed, but it’s always good to be proactive. **If you want to learn how to do file for your homestead exemption, [click here for instructions.](https://www.kmatx.com/homestead-exemption){: target="_blank"}**
 
 If you’re looking to buy or invest in a property this year, have any questions, or need further information, feel free to reach out to me.
