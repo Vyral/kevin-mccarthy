@@ -52,12 +52,12 @@ second_sidebar_CTA:
 lender:
   show_section: true
   header_text: Local Lender
-  headshot_path: /img/lender-headshot.jpg
-  logo_path: /img/lender-logo.png
+  headshot_path: /img/lender.jpg
+  logo_path: /img/lender.png
   name: Ginger Carnright
   license_number:
   company: Premier Nationwide Lending
-  company_license_number:
+  company_license_number: 1170698
   phone: 512-762-8353
   email: gcarnright@pnleding.com
   url:
