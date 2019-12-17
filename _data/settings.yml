@@ -21,12 +21,12 @@ client:
   brand: KMAC Team
   brokerage:
   market: Austin
-  address: 1320 Cypress Creek Road, Suite 102 Cedar Park, TX, 78613
+  address: Cedar Park, TX 3933 Steck Ave STE B106 Austin, TX 78759
   phone: 512-587-4050
   phone_type:
   phone2:
   phone2_type:
-  email: kevin@maxavenue.com
+  email: kevin@kmacteam.com
   url: https://www.kmacteam.com
 
 CTAs:
@@ -50,16 +50,16 @@ second_sidebar_CTA:
     CTA_url2: https://search.kmacteam.com/
 
 lender:
-  show_section: false
-  header_text: Preferred Lender
+  show_section: true
+  header_text: Local Lender
   headshot_path: /img/lender-headshot.jpg
   logo_path: /img/lender-logo.png
-  name:
+  name: Ginger Carnright
   license_number:
-  company:
+  company: Premier Nationwide Lending
   company_license_number:
-  phone:
-  email:
+  phone: 512-762-8353
+  email: gcarnright@pnleding.com
   url:
 
 socials:
