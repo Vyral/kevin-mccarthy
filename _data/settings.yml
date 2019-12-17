@@ -31,23 +31,23 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://www.kmacteam.com/home-valuation
+  first_CTA_URL: https://www.kmacteam.com/home-evaluation
   second_CTA_text: Home Search
-  second_CTA_URL: https://search.kmacteam.com/
+  second_CTA_URL: https://www.kmacteam.com/idx
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "What’s Your Austin Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: https://www.kmacteam.com/home-valuation
+    CTA_url: https://www.kmacteam.com/home-evaluation
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: "Looking for a Austin Home?"
     CTA_text2: "Search the entire MLS for your Austin home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: https://search.kmacteam.com/
+    CTA_url2: https://www.kmacteam.com/idx
 
 lender:
   show_section: true
