@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/mccarthy-youtube.jpg
 youtube_code: qPhLu2j_vfo
 ---
 
-{% include youtube.html %}2019 is coming to an end, which means it’s time to write down your goals for 2020.&nbsp;
+{% include youtube.html %}<center>2019 is coming to an end, which means it’s time to write down your goals for 2020.</center>
 
 With 2019 coming to an end and the holiday season well underway, I wanted to reach out to you today and wish you a happy holiday. I hope you enjoy spending time with your loved ones.&nbsp;
 
