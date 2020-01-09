@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/mccarthy-youtube-1.jpg
 youtube_code: NceDZHolsgY
 ---
 
-{% include youtube.html %}Today I’m sharing my three main goals for 2020.&nbsp;
+{% include youtube.html %}<center>Today I’m sharing my three main goals for 2020.&nbsp;</center>
 
 It’s a brand-new year and I’m already out previewing some homes. Things are going to start heating up this year, and I’m pretty excited\!&nbsp;
 
