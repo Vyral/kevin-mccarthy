@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Are You Going to Achieve Your 2020 Goals?
-date: 2020-01-09 17:19:38
+date: 2020-01-09 17:19:00
 tags:
 excerpt: Today I’m sharing my three main goals for 2020.
 enclosure:
