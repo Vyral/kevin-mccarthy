@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/mccarthy-youtube-2.jpg
 youtube_code: MINe1y_6eHY
 ---
 
-{% include youtube.html %}If you have bought a home in the past 12 months, you need to file your homestead exemption. Here’s how and why you should do it.
+{% include youtube.html %}<center>If you have bought a home in the past 12 months, you need to file your homestead exemption. Here’s how and why you should do it.</center>
 
 With the new year here and tax day around the corner, it’s time to file your homestead exemption if you haven’t already.
 
