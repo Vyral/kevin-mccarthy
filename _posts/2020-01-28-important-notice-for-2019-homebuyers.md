@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Important Notice for 2019 Homebuyers
-date:
+date: 2020-01-28 16:39:52
 tags:
 excerpt: >-
   If you have bought a home in the past 12 months, you need to file your
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/mccarthy-youtube-2.jpg
 youtube_code: MINe1y_6eHY
 ---
 
-{% include youtube.html %}<center>If you have bought a home in the past 12 months, you need to file your homestead exemption. Here’s how and why you should do it.</center>
+{% include youtube.html %}
+
+<center><em>If you have bought a home in the past 12 months, you need to file your homestead exemption. Here&rsquo;s how and why you should do it.</em></center>
+
+&nbsp;
 
 With the new year here and tax day around the corner, it’s time to file your homestead exemption if you haven’t already.
 
