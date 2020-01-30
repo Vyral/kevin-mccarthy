@@ -23,7 +23,9 @@ youtube_code: MINe1y_6eHY
 
 With the new year here and tax day around the corner, it’s time to file your homestead exemption if you haven’t already.
 
-**If you have bought a house in the last year, make sure that you file the homestead exemption by April 30.** [You can file and learn more about the exemption here on my website.](https://www.kmacteam.com/homestead-exemption){: target="_blank"}
+**If you have bought a house in the last year, make sure that you file the homestead exemption by April 30.**
+
+[**Click here and y****ou can file and learn more about the exemption on my website.**](https://www.kmacteam.com/homestead-exemption){: target="_blank"}
 
 {% include pullquote.html %}
 
