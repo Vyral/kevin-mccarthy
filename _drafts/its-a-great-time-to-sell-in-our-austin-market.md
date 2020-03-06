@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/mccarthy-youtube-3.jpg
 youtube_code: 7faxNay9gZU
 ---
 
-{% include youtube.html %}Spring is almost here, and our Austin market is heating up.&nbsp;
+{% include youtube.html %}<center>Spring is almost here, and our Austin market is heating up.&nbsp;</center>
 
 How’s our Austin market doing?&nbsp;
 
