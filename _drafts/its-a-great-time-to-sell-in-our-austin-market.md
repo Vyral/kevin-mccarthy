@@ -9,8 +9,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/mccarthy-youtube-3.jpg
+youtube_code: 7faxNay9gZU
 ---
 
 {% include youtube.html %}Spring is almost here, and our Austin market is heating up.&nbsp;
