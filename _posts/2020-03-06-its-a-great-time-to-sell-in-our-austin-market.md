@@ -1,7 +1,7 @@
 ---
 layout: post
 title: It’s a Great Time to Sell in Our Austin Market
-date:
+date: 2020-03-06 14:53:24
 tags:
 excerpt: 'Spring is almost here, and our Austin market is heating up.'
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/mccarthy-youtube-3.jpg
 youtube_code: 7faxNay9gZU
 ---
 
-{% include youtube.html %}<center>Spring is almost here, and our Austin market is heating up.&nbsp;</center>
+{% include youtube.html %}
+
+<center>Spring is almost here, and our Austin market is heating up.&nbsp;</center>
+
+&nbsp;
 
 How’s our Austin market doing?&nbsp;
 
