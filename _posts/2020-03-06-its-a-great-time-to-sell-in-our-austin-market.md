@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/mccarthy-youtube-3.jpg
-youtube_code: 7faxNay9gZU
+youtube_code: HjQh7IOBz3A
 ---
 
 {% include youtube.html %}
