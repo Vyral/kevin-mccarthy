@@ -18,6 +18,6 @@ youtube_code: Pvi1pLeSibQ
 
 {% include youtube.html %}
 
-I’m out on the Port Aransas Beach as the entire country goes into lockdown mode. Today I’m here to share a story of a family who was behind on their mortgage and needed to sell. The home needed a lot of work and they didn’t have the money to upgrade it, either. We were able to market the property extremely well to the right buyer so that the homeowners didn’t lose their equity. If you currently have equity in your property and are in financial distress, we can help you, too, even amidst this global pandemic.&nbsp;
+I’m out on the Port Aransas Beach as the entire country goes into lockdown mode. Today I’m here to share a story of a family who was behind on their mortgage and needed to sell. The home needed a lot of work and they didn’t have the money to upgrade it, either. We were able to market the property extremely well to the right buyer so that the homeowners didn’t lose their equity. We found a cash buyer and got them the highest price possible. If you currently have equity in your property and are in financial distress, we can help you, too, even amidst this global pandemic.&nbsp;
 
 If you have any questions about real estate, please reach out to us. We're here to help you, even in uncertain times.
