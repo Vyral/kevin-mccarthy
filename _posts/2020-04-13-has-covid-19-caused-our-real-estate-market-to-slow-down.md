@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Has COVID-19 Caused Our Real Estate Market to Slow Down?
-date:
+date: 2020-04-13 20:02:56
 tags:
   - Real Estate
 excerpt: >-
