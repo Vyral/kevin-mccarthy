@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Has COVID-19 Caused Our Real Estate Market to Slow Down?
-date: 2020-04-13 20:02:56
+date: 2020-04-13 20:02:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,8 +13,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/mccarthy-ss-the-coronavirus-s-effect-on-our-market-youtube.jpg
-youtube_code: 'https://youtu.be/hGeYwJKtpC8'
+youtube_alternate_image: /uploads/mccarthy-ss-the-coronavirus-s-effect-on-our-market-youtube2.jpg
+youtube_code: 'https://youtu.be/Mispthrta-k'
 ---
 
 {% include youtube.html %}
